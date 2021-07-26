@@ -1,0 +1,29 @@
+
+         h1{
+            color:aqua;
+         }
+    
+         /* *{
+             border:solid;
+         }
+          */
+        
+         .header{
+             background-color: bisque;
+             display:flex;
+             justify-content: space-between;
+         }
+
+         .grid{
+             display:flex;
+             justify-content: space-evenly;
+         }
+
+        .item{
+            display:flex;
+            justify-content: space-evenly;
+            border:solid;
+        }
+        
+
+    
